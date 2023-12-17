@@ -1,7 +1,7 @@
 ## Assignment 2: Guess the Number Game in Assembly
 ### Tasks
 
-- [ ] Display nice message to user
+- [x] Display nice message to user
 - [ ] Generate random number
 - [ ] Get user input
 - [ ] Compare user input to random number
