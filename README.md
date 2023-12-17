@@ -2,13 +2,13 @@
 ### Tasks
 
 - [x] Display nice message to user
-- [ ] Generate random number
+- [x] Generate random number
 - [ ] Get user input
 - [ ] Compare user input to random number
 - [ ] Display feedback to user
 - [ ] Loop until user guesses correctly
 - [ ] Display nice message to user
-- [ ] Exit
+- [x] Exit
 
 ### Dependencies
 
