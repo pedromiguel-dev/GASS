@@ -20,5 +20,5 @@ mkdir_build:
 clean:
 	rm -f $(OUTPUT_EXEC) $(SOURCE_FILE).o
 
-start: all
+run: all
 	./build/main
