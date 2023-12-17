@@ -18,7 +18,7 @@
 
 ### How to run
 1. run `$ make`
-3. run `$ ./casm`
+3. run `$ ./build/main`
    
 ### Requirements:
 
