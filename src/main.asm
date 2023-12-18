@@ -95,7 +95,6 @@ get_input:
 
         jmp guess_loop
 
-; TODO: compare imput
 compare_input:
     cmp rax, rdi
     je  got_it
