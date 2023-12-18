@@ -7,10 +7,10 @@
 - [x] Display nice message to user
 - [x] Generate random number
 - [x] Get user input
-- [ ] Compare user input to random number
-- [ ] Provide feedback to the user (too high, too low)
+- [x] Compare user input to random number
+- [x] Provide feedback to the user (too high, too low)
 - [x] Loop until user guesses correctly
-- [ ] Display nice message to user
+- [x] Display nice message to user
 - [x] Exit
 
 ### Dependencies
